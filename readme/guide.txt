@@ -1,0 +1,18 @@
+Requirements:
+XAMPP Control Panel
+HTML, CSS, MySQL, PHP
+Steps to run the project in your localhost:
+1) Copy lightsout folder into xampp\htdocs folder
+2) Run XAMPP Control Panel and run Apache server and MySQL.
+3) On your preferred browser, go to http://localhost/phpmyadmin/
+4) Create a new SQL database and inside that database, run the lightsout.sql file or copy/paste in the phpmyadmin GUI to create 3 tables (movies, reviews, users)  
+5) Now head to http://localhost/lightsout/
+
+Enjoy ❤!!!
+
+
+
+
+
+
+
